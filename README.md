@@ -168,6 +168,7 @@ Para Cadastrar um Anúncio, clique em **Cadastro > Cadastrar Anúncio**:
 
 - O sistema não permite que seja digitado uma Data Término igual ou inferior a Data Início.
 
+</br>
         
 ## Considerações Finais
 
