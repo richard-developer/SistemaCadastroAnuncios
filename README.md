@@ -5,7 +5,7 @@
 
 ### Introdução
 
-Este Sistema de Cadastro de Anúncios é a *segunda parte do Desafio de Programação da Academia Técnica ProWay Capgemini*. Trata-se de um desafio classificatório, para que possamos alcançar a tão sonhada primeira oportunidade como um desenvolvedor Java na Capgemini - uma líder global em consultoria, serviços de tecnologia e transformação digital. **Desafio aceito!** Pois assim como a Capgemini, **eu :blue_heart: transformar negócios!** Então, vamos nessa! 🚀
+Este Sistema de Cadastro de Anúncios é a *segunda parte do Desafio de Programação da Academia Técnica ProWay Capgemini*. Trata-se de um desafio classificatório, para que possamos alcançar a tão sonhada primeira oportunidade como um desenvolvedor Java na Capgemini - uma líder global em consultoria, serviços de tecnologia e transformação digital. **Desafio aceito e vamos codar!** Pois assim como a Capgemini, **eu :blue_heart: transformar negócios através da tecnologia!**
 
 </br>
 
@@ -54,7 +54,7 @@ Sabemos que em programação não existe apenas a solução, mas uma solução. 
 
 ### Banco de Dados
 
-O Banco de Dados, responsável por armazenar os dados do Sistema, possui o seguinte nome: **db_cad_anuncio**.  Nele, foi criado a tabela **anuncio** que contém os seguintes atributos: *ID, NOME_ANUNCIO, CLIENTE, DATA_INICIO, DATA_TERMINO e VALOR_INVEST_DIA.*
+O Banco de Dados, responsável por armazenar os dados do Sistema, possui o seguinte nome: **db_cad_anuncio**.  Nele, foi criado a tabela **ANUNCIO** que contém os seguintes atributos: *ID, NOME_ANUNCIO, CLIENTE, DATA_INICIO, DATA_TERMINO e VALOR_INVEST_DIA.*
 
 - Clique [**aqui**](https://github.com/richard-developer/SistemaCadastroAnuncios/blob/main/Query_SQL/Script_BD.sql) para ver Script de criação do Banco de Dados utilizado.
 
@@ -62,11 +62,12 @@ O Banco de Dados, responsável por armazenar os dados do Sistema, possui o segui
     
 ### Como compilar o Sistema
 
-Antes de mais nada, faça o **clone** ou **download ZIP** deste projeto para a sua máquina. Feito isso, vamos ás configurações para compilação deste sistema! 
+Antes de mais nada, faça o **clone** ou **download ZIP** deste projeto para a sua máquina. Feito isso, vamos ás configurações para compilação deste sistema.
 
-Para que você possa compilar e executar este sistema, é necessário instale uma IDE (Ambiente de Desenvolvimento Integrado) que compile arquivos ***.java***, como o *Apache Netbeans* por exemplo. Além disso, é preciso ter o pacote JDK 8 (Java Development Kit) ou superior.  Como dito antes, para desenvolver esse sistema, foi utilizado o ***JDK 8*** e o ***NetBeans 8.2***. 
+Para que você possa compilar e executar este sistema, é necessário instalar uma IDE (Ambiente de Desenvolvimento Integrado) que compile arquivos ***.java***, como o *Apache Netbeans* por exemplo. Além disso, é preciso ter instalado o pacote JDK 8 (Java Development Kit) ou superior.  Como dito antes, para desenvolver esse sistema, foi utilizado o ***JDK 8*** e o ***NetBeans 8.2***. 
 
-Também **é obrigatório configurar o driver JBDC MySQL** para utilização do Banco de Dados através da IDE. Uma vantagem do NetBeans 8.2 é que ele já vem com a essa biblioteca nativamente instalada ( *basta clicar com o botão direito em Bibliotecas, em seguida Adicionar Biblioteca > **Driver JDBC do MySQL***). Veja imagem abaixo:
+Também **é obrigatório configurar o driver JBDC MySQL** para utilização do Banco de Dados através da IDE. </br></br>
+Uma vantagem do NetBeans 8.2 é que ele já vem com a essa biblioteca nativamente instalada ( *basta clicar com o botão direito em Bibliotecas, em seguida Adicionar Biblioteca > **Driver JDBC do MySQL***). Veja imagem abaixo:
 
 <p align="center">
      <img src ="https://github.com/richard-developer/SistemaCadastroAnuncios/blob/main/ImagensConfiguracoes/AdicionarBibliotecaJDBC.png"/>
@@ -84,7 +85,7 @@ Também **é obrigatório configurar o driver JBDC MySQL** para utilização do 
 
 ### Conexão do NetBeans 8.2 ao Banco de Dados MySQL
 
-Após executar o NetBeans, abra o projeto **SistemaCadastroAnuncio** que já foi baixado pra sua máquina . 
+Após executar o NetBeans, abra o projeto **SistemaCadastroAnuncio** que já foi baixado para sua máquina . 
 
 Clique na *Aba Serviços > Banco de Dados > Botão Direito (Nova Conexão).* 
 
@@ -104,7 +105,7 @@ Na tela Assistente de Nova Conexão, mantenha por padrão o Nome do Usuário **r
      <img src ="https://github.com/richard-developer/SistemaCadastroAnuncios/blob/main/ImagensConfiguracoes/BancoDadosNetBeans3.png"/>
 </p>
 
-Pronto, seu NetBeans acaba de ser configurado com o Bando de Dados MySQL! 
+Pronto, seu NetBeans acaba de ser configurado com o Bando de Dados MySQL! :clap:
 
 </br>
 
@@ -138,7 +139,7 @@ Realizadas todas as etapas anteriores, seguimos para a **Execução do Sistema:*
 
 ### Instruções de utilização do Sistema
 
-Depois de compilar e executar o sistema, chegou a hora de utilizá-lo! Vamos nessa?!
+Depois de compilar e executar o sistema, chegou a hora de utilizá-lo! Vamos nessa?! :rocket:
 
 Este é o **Menu Principal do Sistema**:
 
@@ -152,9 +153,9 @@ Este é o **Menu Principal do Sistema**:
 
 </br>
 
-Para Cadastrar um Anúncio, clique em **Cadastro > Cadastrar Anúncio**:
-**Nesta mesma tela**, é possível Gerar Relatório e Filtrar por Cliente.
- [Execute o Sistema e confira! 😉]
+Para Cadastrar um Anúncio, clique em **Cadastro > Cadastrar Anúncio**.
+Nesta mesma tela, é possível Gerar Relatório e Filtrar por Cliente.
+ [Execute o sistema e confira! 😉]
 
 <p align="center">
      <img src ="https://github.com/richard-developer/SistemaCadastroAnuncios/blob/main/ImagensConfiguracoes/CadastrarAnuncio.png"/>
