@@ -112,14 +112,14 @@ Pronto, seu NetBeans acaba de ser configurado com o Bando de Dados MySQL!
 
 Antes executar o Sistema, verifique se já foram feitas estas **etapas obrigatórias** seguindo a ordem abaixo:
 
-- [ ] Instalação do JDK 8 + NetBeans 8.2;
-- [ ] Instalação do XAMPP;
-- [ ] Instalação do MySQL Workbench;
-- [ ] Ativação do MySQL através do XAMPP;
-- [ ] Criação do Banco de Dados através do MySQL Workbench [[**script aqui**]](https://github.com/richard-developer/SistemaCadastroAnuncios/blob/main/Query_SQL/Script_BD.sql);
-- [ ] Abrir o projeto pelo NetBeans;
-- [ ] Configuração do Driver JDBC no NetBeans 8.2;
-- [ ] Conexão do NetBeans 8.2 ao Banco de Dados MySQL.
+- [x] Instalação do JDK 8 + NetBeans 8.2;
+- [x] Instalação do XAMPP;
+- [x] Instalação do MySQL Workbench;
+- [x] Ativação do MySQL através do XAMPP;
+- [x] Criação do Banco de Dados através do MySQL Workbench [[**script aqui**]](https://github.com/richard-developer/SistemaCadastroAnuncios/blob/main/Query_SQL/Script_BD.sql);
+- [x] Abrir o projeto pelo NetBeans;
+- [x] Configuração do Driver JDBC no NetBeans 8.2;
+- [x] Conexão do NetBeans 8.2 ao Banco de Dados MySQL.
 
     
 Realizadas todas as etapas anteriores, seguimos para a **Execução do Sistema:**
@@ -172,7 +172,7 @@ Para Cadastrar um Anúncio, clique em **Cadastro > Cadastrar Anúncio**:
         
 ## Considerações Finais
 
-Quero expressar minha imensa gratidão ao time da Academia ProWay Capgemini por me proporcionar a oportunidade de participar desse desafio. Foram dias intensos, de muitos erros, acertos, e sobretudo de muito aprendizado. Mesmo ás vezes achando que não iria conseguir, acreditei e me dediquei ao máximo. Ainda estou no início da minha jornada como desenvolvedor, mas concluo este desafio com a certeza de que tudo é possível ao que crê, se dedica e faz acontecer. Então, eis aí o resultado de todo este esforço, espero sinceramente que gostem! Até breve! 🙏
+Quero expressar minha imensa gratidão ao time da Academia ProWay Capgemini por me proporcionar a oportunidade de participar desse desafio. Foram dias intensos, de muitos erros, acertos, e sobretudo de muito aprendizado. Mesmo ás vezes achando que não iria conseguir, acreditei e me dediquei ao máximo. Ainda estou no início da minha jornada como desenvolvedor, mas concluo este desafio com a certeza de que tudo é possível ao que crê, se dedica e faz acontecer. Então, eis aí o resultado de todo este esforço, espero que gostem. Até breve! 🙏
 
 
       
