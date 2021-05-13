@@ -162,7 +162,8 @@ Para Cadastrar um Anúncio, clique em **Cadastro > Cadastrar Anúncio**:
 
 </br>
 
-#### Principais Características implementadas:
+### Principais Características do Sistema:
+
 
 - O sistema valida se todos os campos obrigatórios para o Cadastro foram preenchidos;
 
